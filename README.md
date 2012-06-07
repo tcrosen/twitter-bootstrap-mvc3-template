@@ -8,12 +8,13 @@ Author: [Terry Rosen](http://twitter.com/rerrify)
 The standard ASP.NET MVC3 project template styled with Twitter Bootstrap.
 Currently using the **Internet** project type, will add support for **Intranet** in next release.
 
-Quick Start Options
+Installation Options
 -----------
 
-1. `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
-2. [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
-3. Clone using [GitHub for Windows](http://windows.github.com/)
++ Install via the [http://visualstudiogallery.msdn.microsoft.com/a7322b08-84aa-48cc-8c77-33a690e2ac12](Visual Studio Gallery)
++ Clone using [GitHub for Windows](http://windows.github.com/)
++ [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
++ Command line Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
 
 Once downloaded, it's recommended you update the Nuget packages to get the latest versions of jQuery, Bootstrap, etc.
 
