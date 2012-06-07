@@ -2,24 +2,18 @@ Twitter Bootstrap MVC3 Template
 =================
 
 v1.0.0
+
 Author: [Terry Rosen](http://twitter.com/rerrify)
 
 The standard ASP.NET MVC3 project template styled with Twitter Bootstrap.
 Currently using the **Internet** project type, will add support for **Intranet** in next release.
 
-Quick Start
+Quick Start Options
 -----------
 
-`git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
-
-or 
-
-[Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
-
-or
-
-Clone using [GitHub for Windows](http://windows.github.com/)
-
+1. `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
+2. [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
+3. Clone using [GitHub for Windows](http://windows.github.com/)
 
 About Twitter Bootstrap
 -----------
@@ -32,8 +26,8 @@ Change Log
 -----------
 
 **v1.0.0**
--Removed excess Nuget packages from default project
--All forms use `form-horizontal` class
--Logon partial view uses navigation dropdown
--Renamed **Content** directory to **css**
--Renamed **Scripts** directory to **js** and added **lib** subdir
++ Removed excess Nuget packages from default project
++ All forms use `form-horizontal` class
++ Logon partial view uses navigation dropdown
++ Renamed **Content** directory to **css**
++ Renamed **Scripts** directory to **js** and added **lib** subdir
