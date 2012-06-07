@@ -17,7 +17,7 @@ Installation Options
 + [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
 + Clone using Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
 
-Once downloaded, it's recommended you update the Nuget packages to get the latest versions of jQuery, Bootstrap, etc.
+Once downloaded, it's recommended you update to the latest versions of jQuery, Bootstrap, etc.
 
 About Twitter Bootstrap
 -----------
@@ -33,8 +33,6 @@ Change Log
 + Removed excess Nuget packages from default project
 + All forms use `form-horizontal` class
 + Logon partial view uses navigation dropdown
-+ Renamed **Content** directory to **css**
-+ Renamed **Scripts** directory to **js** and added **lib** subdir
 
 Future Plans
 ------------
