@@ -12,9 +12,10 @@ Installation Options
 -----------
 
 + Install via the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/a7322b08-84aa-48cc-8c77-33a690e2ac12)
++ Install via [Nuget](http://nuget.org/packages/TwitterBootstrapMVC3Template)
 + Clone using [GitHub for Windows](http://windows.github.com/)
 + [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
-+ Command line Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
++ Clone using Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
 
 Once downloaded, it's recommended you update the Nuget packages to get the latest versions of jQuery, Bootstrap, etc.
 
