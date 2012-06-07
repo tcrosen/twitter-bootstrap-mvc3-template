@@ -11,7 +11,7 @@ Currently using the **Internet** project type, will add support for **Intranet**
 Installation Options
 -----------
 
-+ Install via the [http://visualstudiogallery.msdn.microsoft.com/a7322b08-84aa-48cc-8c77-33a690e2ac12](Visual Studio Gallery)
++ Install via the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/a7322b08-84aa-48cc-8c77-33a690e2ac12)
 + Clone using [GitHub for Windows](http://windows.github.com/)
 + [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
 + Command line Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
