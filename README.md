@@ -1,13 +1,11 @@
 Twitter Bootstrap MVC3 Template
 =================
 
-v1.0.0
+v1.0.1
 
 Author: [Terry Rosen](http://twitter.com/rerrify)
 
-The standard ASP.NET MVC3 project template styled with Twitter Bootstrap.
-
-Currently only the **Internet** project type is supported, will add support for **Intranet** in next release.
+The standard ASP.NET MVC3 Internet & Intranet project templates styled with Twitter Bootstrap.
 
 Installation Options
 -----------
@@ -22,12 +20,17 @@ About Twitter Bootstrap
 
 Twitter Bootstrap provides simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions. In other words, it's a front-end toolkit for faster, more beautiful web development. It's created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat) at Twitter.
 
-To get started, checkout http://twitter.github.com/bootstrap!
+http://twitter.github.com/bootstrap
 
 Change Log
 -----------
 
+**v1.0.1**
+
++ Added Intranet project type to solution
+
 **v1.0.0**
+
 + Removed excess Nuget packages from default project
 + All forms use `form-horizontal` class
 + Logon partial view uses navigation dropdown
@@ -35,7 +38,6 @@ Change Log
 Future Plans
 ------------
 
-+ Add Intranet project type support
 + Add support for various Bootstrap layouts
 + Add LESS files and compiler
 + Add plugin examples

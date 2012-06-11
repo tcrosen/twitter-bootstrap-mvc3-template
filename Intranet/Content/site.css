@@ -1,0 +1,9 @@
+﻿body
+{
+    padding-top: 50px;
+}
+
+.field-validation-error
+{
+    color: #B94A48;
+}
