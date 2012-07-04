@@ -1,4 +1,4 @@
-Twitter Bootstrap C# MVC3 Template
+Twitter Bootstrap C# MVC3 Project Templates
 =================
 
 v1.0.2
@@ -10,10 +10,14 @@ The standard **C#** MVC3 Internet & Intranet project templates styled with Twitt
 Installation Options
 -----------
 
-+ Install via the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/a7322b08-84aa-48cc-8c77-33a690e2ac12)
++ Install via the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/23d11b45-c2ed-4398-9cb5-48ea67878470)
 + Clone using [GitHub for Windows](http://windows.github.com/)
 + [Download .ZIP](https://github.com/tcrosen/twitter-bootstrap-mvc3-template/zipball/master)
 + Clone using Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
+
+
+<img src="http://visualstudiogallery.msdn.microsoft.com/site/view/file/77238/1/create-project-dialog-1.0.2.png" alt="installation screenshot" title="Create project with new template" />
+
 
 About Twitter Bootstrap
 -----------
@@ -43,4 +47,7 @@ Future Plans
 ------------
 
 + Add LESS files and compiler
-+ <strike>Add support for VB.NET</strike>  JK! VB.NET is poop
++ Add support for VB.NET*  
+
+
+*JK! VB.NET is poop
