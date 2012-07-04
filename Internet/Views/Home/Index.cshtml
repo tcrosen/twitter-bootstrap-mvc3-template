@@ -1,5 +1,16 @@
-﻿@{
-    ViewBag.Title = "Home Page";
+﻿@{    
+    if (Request.QueryString["layout"] == "fluid")
+    {
+        ViewBag.Title = "Home Page Fluid Layout";
+        ViewBag.Message = "Bootstrap Fluid Layout";
+        Layout = "~/Views/Shared/_LayoutFluid.cshtml";
+    }
+    else
+    {
+        ViewBag.Title = "Home Page Standard Layout";
+        ViewBag.Message = "Bootstrap Standard Layout";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
 }
 <!-- Main hero unit for a primary marketing message or call to action -->
 <div class="hero-unit">
@@ -13,7 +24,7 @@
         <a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
 </div>
 <!-- Example row of columns -->
-<div class="row">
+<div class="row-fluid">
     <div class="span4">
         <h2>
             Heading</h2>

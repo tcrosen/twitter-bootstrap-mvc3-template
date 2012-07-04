@@ -1,0 +1,7 @@
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\bin\Intranet.dll
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\bin\Intranet.pdb
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\bin\EntityFramework.dll
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\bin\EntityFramework.xml
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\obj\Debug\ResolveAssemblyReference.cache
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\obj\Debug\Intranet.dll
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Intranet\obj\Debug\Intranet.pdb
