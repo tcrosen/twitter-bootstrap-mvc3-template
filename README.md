@@ -1,7 +1,7 @@
 Twitter Bootstrap MVC3 Template
 =================
 
-v1.0.1
+v1.0.2
 
 Author: [Terry Rosen](http://twitter.com/rerrify)
 
@@ -25,6 +25,10 @@ http://twitter.github.com/bootstrap
 Change Log
 -----------
 
+**v1.0.2**
+
++ Added multiple layout examples
+
 **v1.0.1**
 
 + Added Intranet project type to solution
@@ -38,6 +42,4 @@ Change Log
 Future Plans
 ------------
 
-+ Add support for various Bootstrap layouts
 + Add LESS files and compiler
-+ Add plugin examples
