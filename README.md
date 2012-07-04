@@ -1,11 +1,11 @@
-Twitter Bootstrap MVC3 Template
+Twitter Bootstrap C# MVC3 Template
 =================
 
 v1.0.2
 
 Author: [Terry Rosen](http://twitter.com/rerrify)
 
-The standard ASP.NET MVC3 Internet & Intranet project templates styled with Twitter Bootstrap.
+The standard **C#** MVC3 Internet & Intranet project templates styled with Twitter Bootstrap.
 
 Installation Options
 -----------
@@ -43,3 +43,4 @@ Future Plans
 ------------
 
 + Add LESS files and compiler
++ <strike>Add support for VB.NET</strike>  JK! VB.NET is poop
