@@ -3,15 +3,8 @@ C:\Terry\Projects\Personal\Public\TwitterBootstrapMVC\Internet\bin\Internet.pdb
 C:\Terry\Projects\Personal\Public\TwitterBootstrapMVC\Internet\obj\Debug\ResolveAssemblyReference.cache
 C:\Terry\Projects\Personal\Public\TwitterBootstrapMVC\Internet\obj\Debug\Internet.dll
 C:\Terry\Projects\Personal\Public\TwitterBootstrapMVC\Internet\obj\Debug\Internet.pdb
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\Internet.dll
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\Internet.pdb
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\obj\Debug\ResolveAssemblyReference.cache
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\obj\Debug\Internet.dll
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\obj\Debug\Internet.pdb
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\bin\Internet.dll
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\bin\Internet.pdb
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\obj\Debug\ResolveAssemblyReference.cache
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\obj\Debug\Internet.dll
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\obj\Debug\Internet.pdb
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\EntityFramework.dll
-C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\EntityFramework.xml
