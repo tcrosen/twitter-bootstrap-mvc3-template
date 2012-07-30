@@ -8,3 +8,10 @@ C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Inter
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\obj\Debug\ResolveAssemblyReference.cache
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\obj\Debug\Internet.dll
 C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Solution\Internet\obj\Debug\Internet.pdb
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\Internet.dll
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\Internet.pdb
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\EntityFramework.dll
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\bin\EntityFramework.xml
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\obj\Debug\ResolveAssemblyReference.cache
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\obj\Debug\Internet.dll
+C:\Terry\Projects\Personal\Public\twitter-bootstrap-mvc3-template\Internet\obj\Debug\Internet.pdb

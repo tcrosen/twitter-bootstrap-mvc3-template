@@ -1,7 +1,7 @@
 Twitter Bootstrap C# MVC3 Project Templates
 =================
 
-v1.0.2
+v1.0.3
 
 Author: [Terry Rosen](http://twitter.com/rerrify)
 
@@ -28,6 +28,11 @@ http://twitter.github.com/bootstrap
 
 Change Log
 -----------
+
+**v1.0.3**
+
++ Fixed bug with responsive layout resizing
++ Added proper closures to some HTML tags
 
 **v1.0.2**
 
