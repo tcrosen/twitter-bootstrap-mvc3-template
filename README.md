@@ -1,7 +1,7 @@
 Twitter Bootstrap C# MVC3 Project Templates
 =================
 
-v2.0.0
+v2.0
 
 Author: [Terry Rosen](http://twitter.com/rerrify)
 
@@ -16,7 +16,7 @@ Installation Options
 + Clone using Git: `git clone git://github.com/tcrosen/twitter-bootstrap-mvc3-template.git`
 
 
-<img src="http://visualstudiogallery.msdn.microsoft.com/site/view/file/77238/1/create-project-dialog-1.0.2.png" alt="installation screenshot" title="Create project with new template" />
+<img src="http://i1.visualstudiogallery.msdn.s-msft.com/23d11b45-c2ed-4398-9cb5-48ea67878470/image/file/81624/1/8-27-2012%2010-27-10%20am.png" />
 
 
 About Twitter Bootstrap
